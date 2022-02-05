@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @JaivyDaam
+- 👀 I’m interested in
+  - Python
+  - CI/CD
+  - Kubernetes
+  - Docker/Containerd
+  - Gitlab/Github
+  - Ansible
+  - Terraform
+- 🌱 I’m currently learning Terraform & Ansible
+- 💞️ I’m looking to collaborate on Open Source Software
